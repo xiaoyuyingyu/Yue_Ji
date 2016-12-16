@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">悦己</string>
+
+    <string name="about_me">关于我</string>
+    <string name="exit">退出应用</string>
+
+    <string name="page1">知乎日报</string>
+    <string name="page2">妹子福利</string>
+    <string name="page3">好奇心日报</string>
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+
+    <string name="net_wrong">亲，请检查下你的网络</string>
+    <string name="headline">大公司头条</string>
+
+    <string name="tip_guide">指引: 点击卡片的标题文字，可以打开干货页面 </string>
+    <string name="i_know">知道了</string>
+</resources>

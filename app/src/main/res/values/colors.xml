@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#38c886</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="green">#38c886</color>
+
+    <color name="normalTextColor">#212121</color>
+    <color name="cardBackColor">#FFFFFFFF</color>
+    <color name="backColor">#FFF3F4F8</color>
+
+    <color name="BlackWhiteBackgroundColor">#FFFFFFFF</color>
+    <color name="BlackWhiteColor">@color/black</color>
+
+    <!--Text-->
+    <color name="textColor">#424242</color>
+
+    <!--TabLayout-->
+    <color name="TabTextColor">#FFFFFF</color>
+    <color name="TabSelectColor">#FAFAFA</color>
+    <color name="TabIndicatorColor">#FFFFFF</color>
+
+    <!--Splash-->
+    <color name="white">#FFFFFF</color>
+    <color name="gery">#FAFAFA</color>
+    <color name="darkgery">#797979</color>
+    <color name="trangery">#512e2e2e</color>
+    <color name="black">#252525</color>
+
+    <!--RefreshLayout-->
+    <color name="refresh_progress_1">#536DFE</color>
+    <color name="refresh_progress_2">#f44336</color>
+    <color name="refresh_progress_3">#FF4081</color>
+
+    <color name="顶部进度条">#A199E9</color>
+</resources>
